@@ -8,5 +8,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+## Thanks to all Contributors
+[![Contributors](https://contrib.rocks/image?repo=tintinelle/TFT_Aero_Project)](https://github.com/tintinelle/TFT_Aero_Project/graphs/contributors)
+
 ## Result:
-https://tintinelle.github.io/TFT_Aero_Project/
+https://aleksandramosyagina.github.io/TFT_Aero_Project/
