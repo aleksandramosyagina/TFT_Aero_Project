@@ -1,4 +1,4 @@
-# TFTAero Project
+# TFT Aero Project
 
 <p>A website about using flight-simulators for entertainment</p>
 
